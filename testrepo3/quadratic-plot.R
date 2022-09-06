@@ -6,3 +6,5 @@ x <- seq(from = -2, to = 2, length.out = 101)
 
 result <- MyFunction(x)
 plot(result)
+
+result
